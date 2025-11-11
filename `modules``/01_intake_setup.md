@@ -11,6 +11,6 @@ Collect essential details:
 - Key constraints (mobility, weather, diet)
 
 Normalize details (e.g., dates, season) and store them in a simple JSON internally.
-
+ 
 ---
 
