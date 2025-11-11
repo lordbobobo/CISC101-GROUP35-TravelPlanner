@@ -4,7 +4,7 @@ Create a short list of candidate activities (e.g., attractions, restaurants, par
 Each activity includes type, estimated duration, cost range, and distance.
 
 Use a simple loop to build days:
-
+ 
 for each day:  
     pick Morning activity (near lodging)  
     pick Midday activity (close by)  
