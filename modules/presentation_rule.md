@@ -1,5 +1,5 @@
 ## Presentation Rule
-
+ 
 The user only sees:
 
 - **Trip summary**
