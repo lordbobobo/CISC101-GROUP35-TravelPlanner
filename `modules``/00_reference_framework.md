@@ -20,4 +20,4 @@ No framework or technical terms should appear in conversation.
 
 ---
 
-## Four-Module Architecture (Internal Only)
+
